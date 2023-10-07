@@ -285,3 +285,5 @@ From TF 2.13 onwards, we have sunset this list and only use GitHub's Security
 Advisory format, to simplify the post-vulnerability-fix process.  In both
 locations, we credit reporters for identifying security issues, although we keep
 your name confidential if you request it.
+# Pay Transparency
+https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:3904d473-0113-3d87-82e8-1c8faf4c8a8d
